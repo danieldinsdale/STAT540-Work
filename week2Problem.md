@@ -22,9 +22,11 @@ abline(0.5,0, col="red")
 ![](week2Problem_files/figure-html/unnamed-chunk-1-1.png) 
 
 We can also simulate numerous samples (in this case 10) and calculate the mean, IQR and median of the sample proportions.
+
 ![](week2Problem_files/figure-html/unnamed-chunk-2-1.png) ![](week2Problem_files/figure-html/unnamed-chunk-2-2.png) ![](week2Problem_files/figure-html/unnamed-chunk-2-3.png) 
 
 Here is an example of accepting defaults and the effects of changing argument order.
+
 
 
 ```r
